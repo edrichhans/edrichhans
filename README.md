@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Tech Lead at [Xendit](https://xendit.co)
+Founder of [Spacepack](https://spacepack.ph) and [Pào Kape](https://paokape.com)
+
+- I use Typescript and Go daily
+- I have learned React, Vue, and Svelte out of necessity
+- I also like contributing to FOSS when needed
+
+### Notable Open Source Contributions
+
+- https://github.com/edrichhans/svelte-ios-pwa-prompt
+- https://github.com/webhooksite/webhook.site/pull/164
+- https://github.com/codsen/codsen/pull/93
+- https://github.com/skeletonlabs/skeleton/pull/2093
+- https://github.com/typeorm/typeorm/pull/10601
+- https://github.com/joethei/obsidian-tagcloud/pull/16
