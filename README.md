@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 -->
 
 Tech Lead at [Xendit](https://xendit.co)
+
 Founder of [Spacepack](https://spacepack.ph) and [Pào Kape](https://paokape.com)
+
+## About me
 
 - I use Typescript and Go daily
 - I have learned React, Vue, and Svelte out of necessity
 - I also like contributing to FOSS when needed
 
-### Notable Open Source Contributions
+## Notable Open Source Contributions
 
 - https://github.com/edrichhans/svelte-ios-pwa-prompt
 - https://github.com/webhooksite/webhook.site/pull/164
