@@ -24,6 +24,7 @@ Founder of [Spacepack](https://spacepack.ph) and [Pào Kape](https://paokape.com
 - I use Typescript and Go daily
 - I have learned React, Vue, and Svelte out of necessity
 - I also like contributing to FOSS when needed
+- I specialize in the data intensive applications
 
 ## Notable Open Source Contributions
 
